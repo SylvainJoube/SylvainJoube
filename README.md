@@ -1,5 +1,3 @@
-# ⚡ Short Intro ⚡
+# ⚡ WIP ⚡
 
-This is a test.
 
-Parallel softwaredevelopment.
